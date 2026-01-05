@@ -153,4 +153,4 @@ The Streamlit dashboard provides:
 
 ## License
 
-Copyright (c) 2024 Kosmos Ventures. All rights reserved.
+Copyright (c) 2026 Kosmos Ventures. All rights reserved.
