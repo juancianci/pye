@@ -2,8 +2,7 @@
 PYE Market Formation Simulator
 ==============================
 
-A discrete-time economic model of a staking marketplace for Principal-Yield
-Tokenized Staking. Implements the mathematical model specified in simulator.tex.
+A discrete-time economic model of a staking marketplace for PYE Staking. Implements the mathematical model specified in simulator.tex.
 
 Features:
 - Validator accounts with configurable commission structures
